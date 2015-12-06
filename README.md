@@ -10,6 +10,7 @@ At this time, finding Swift packages seems a bit slim.  Thus, contributions to t
 - [Commander](https://github.com/kylef/Commander) - Great for making command line interfaces in Swift.
 - [Punctual](https://github.com/harlanhaskins/Punctual.swift) - Extensions to NSDate APIs to make them friendlier.
 - [Regex](https://github.com/sharplet/Regex) - Convenient regular expressions in Swift, making use of NSRegularExpression.
+- [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A framework of extensions for Sequences, inspired by Python's itertools, Haskell's standard library, and other things
 - [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - JSON handling in Swift.
 - [shuffle](https://github.com/glessard/shuffle) - Lazy shuffling of arrays.
 
