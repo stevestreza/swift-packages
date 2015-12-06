@@ -11,6 +11,7 @@ At this time, finding Swift packages seems a bit slim.  Thus, contributions to t
 - [Regex](https://github.com/sharplet/Regex) - Convenient regular expressions in Swift, making use of NSRegularExpression.
 - [Commander](https://github.com/kylef/Commander) - Great for making command line interfaces in Swift.
 - [shuffle](https://github.com/glessard/shuffle) - Lazy shuffling of arrays.
+- [Punctual](https://github.com/harlanhaskins/Punctual.swift) - Extensions to NSDate APIs to make them friendlier.
 
 ### OS X or iOS Specific
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Swift wrapper around Keychain for iOS and OS X.
