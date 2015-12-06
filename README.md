@@ -13,6 +13,8 @@ At this time, finding Swift packages seems a bit slim.  Thus, contributions to t
 - [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A framework of extensions for Sequences, inspired by Python's itertools, Haskell's standard library, and other things
 - [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - JSON handling in Swift.
 - [shuffle](https://github.com/glessard/shuffle) - Lazy shuffling of arrays.
+- [CUv](https://github.com/CaramelForSwift/CUv) - Module wrapper for [libuv](https://github.com/liub/libuv)
+- [Caramel](https://github.com/CaramelForSwift/Caramel) - cross-platform I/O framework built on [libuv](https://github.com/liub/libuv)
 
 ### OS X or iOS Specific
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Swift wrapper around Keychain for iOS and OS X.
