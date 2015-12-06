@@ -7,11 +7,11 @@ At this time, finding Swift packages seems a bit slim.  Thus, contributions to t
 ## Packages
 ### Cross-Platform
 *May or may not currently build cross-platform, but reasonably could be.*
-- [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - JSON handling in Swift.
-- [Regex](https://github.com/sharplet/Regex) - Convenient regular expressions in Swift, making use of NSRegularExpression.
 - [Commander](https://github.com/kylef/Commander) - Great for making command line interfaces in Swift.
-- [shuffle](https://github.com/glessard/shuffle) - Lazy shuffling of arrays.
 - [Punctual](https://github.com/harlanhaskins/Punctual.swift) - Extensions to NSDate APIs to make them friendlier.
+- [Regex](https://github.com/sharplet/Regex) - Convenient regular expressions in Swift, making use of NSRegularExpression.
+- [SwifyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - JSON handling in Swift.
+- [shuffle](https://github.com/glessard/shuffle) - Lazy shuffling of arrays.
 
 ### OS X or iOS Specific
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Swift wrapper around Keychain for iOS and OS X.
